@@ -1,8 +1,8 @@
 """
 multiprocessing模块创建进程
 【1】将需要子进程
-【2】
-【3】
+【2】woxiangzuoxiugai
+【3】laile laile
 【4】
 """
 from time import sleep
